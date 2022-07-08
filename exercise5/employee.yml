@@ -1,0 +1,11 @@
+# Update employee.yml file to represent the Projects assigned to Jacob.
+# Work on multiple projects -Automation and supoort. use a list
+
+Employee:
+    Name: Jacob
+    Sex: Male
+    Age: 30
+    Title: Systems Engineer
+    Projects:
+        -   Automation
+        -   Support
